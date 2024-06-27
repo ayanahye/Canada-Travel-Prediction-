@@ -1,0 +1,83 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"International travellers entering or returning to Canada, by type of transportation and traveller type, seasonally-adjusted","24100054",,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2410005401",1;2,"CURRENT - a cube available to the public and that is current","Monthly","2010-01-01","2024-04-01","3",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Traveller characteristics",,""
+"3","Traveller type",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Newfoundland and Labrador","[10]","2","1","",9,
+"1","Prince Edward Island","[11]","3","1","",9,
+"1","Nova Scotia","[12]","4","1","",9,
+"1","New Brunswick","[13]","5","1","",,
+"1","Quebec","[24]","6","1","",,
+"1","Ontario","[35]","7","1","",,
+"1","Manitoba","[46]","8","1","",9,
+"1","Saskatchewan","[47]","9","1","",9,
+"1","Alberta","[48]","10","1","",,
+"1","British Columbia","[59]","11","1","",,
+"1","Yukon","[60]","12","1","",9,
+"1","Northwest Territories","[61]","13","1","",9,
+"1","Nunavut","[62]","14","1","",9,
+"1","Canada","[11124]","1","","",,
+"2","Non-resident visitors entering Canada","","2","1","",,
+"2","Canadian-resident visitors returning to Canada","","10","1","",7,
+"2","Other travellers entering or returning to Canada","","17","1","",3;7;10;13,
+"2","United States of America residents entering Canada","","3","2","",3;11,
+"2","Residents of countries other than the United States of America entering Canada","","7","2","",3;10;11,
+"2","United States of America residents, air","","4","3","",11,
+"2","United States of America residents, land, automobile","","5","3","",4;5;12,
+"2","United States of America residents, other modes","","6","3","",3;4;5;12,
+"2","Residents of countries other than the United States of America, air","","8","7","",11,
+"2","Residents of countries other than the United States of America, land or water","","9","7","",3;10,
+"2","Canadian residents returning from the United States of America","","11","10","",3;11,
+"2","Canadian residents returning from countries other than the United States of America","","15","10","",3;11,
+"2","Canadian residents returning from the United States of America, air","","12","11","",11,
+"2","Canadian residents returning from the United States of America, land, automobile","","13","11","",4;5;12,
+"2","Canadian residents returning from the United States of America, other modes","","14","11","",3;4;5;12,
+"2","Canadian residents returning from countries other than the United States of America, air","","16","15","",11,
+"2","International travellers entering or returning to Canada","","1","","",,
+"3","Excursionists (same-day)","","2","1","",6;8,
+"3","Tourists (overnight)","","3","1","",6;8,
+"3","Travellers","","1","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"5005","Frontier Counts"
+
+"Subject Code","Subject Name"
+"24","Travel and tourism"
+
+"Note ID",Note
+1,"Seasonally-adjusted data have been produced using X12 ARIMA seasonal adjustment program. Seasonally-adjusted figures may not add up to totals due to rounding."
+2,"Throughout the existence of the Tourism Statistics Program, Statistics Canada introduced changes to improve the quality of its data (for example, a new data source, a new estimation method). For further information on the methodology used by Frontier Counts or the changes implemented over time, users are advised to consult the <a href="https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=5005" rel="external noopener noreferrer" target="_blank">Frontier Counts (opens new window)</a> pages."
+3,"As of January 2022, one passenger from each bus record is considered a crew member. Prior to 2022, there were no crew from bus travellers."
+4,"As of January 2022, all ferry travellers are included in the water mode, in order to align with United Nations World Tourism Organization recommendations. Prior to 2022, most of these travellers were included in the land mode as either pedestrian or automobile travellers (the only exception was Fortune, in Newfoundland and Labrador)."
+5,"As of January 2022, the maximum number of passengers allowed in an automobile before it is considered a bus is 8, in order to align with United Nations World Tourism Organization recommendations. Prior to 2022, the maximum was 10."
+6,"Prior to 2022, all residents of countries other than the United States of America entering by air or water were considered tourists (overnight visitors). As of January 2022, if these travellers are recorded as same-day, they will be published as excursionists."
+7,"As of January 2022, non-resident travellers with a trip duration of 365 days or more are considered as "other travellers" (not as visitors). Prior to 2022, they were reclassified as Canadian-resident visitors."
+8,"Prior to 2022, all Canadian residents returning from countries other than the United States of America were considered tourists (overnight visitors). As of January 2022, if these travellers are recorded as same-day, they will be published as excursionists."
+9,"As of January 2023, the data for all provinces and territories are directly seasonally adjusted and seasonally-adjusted data for January 2020 to December 2022 have been revised."
+10,"Prior to 2022, crew residing in countries other than the United States of America entering by land were considered tourists (overnight visitors). As of January 2022, they are considered as crew ("other travellers")."
+11,"As of January 2022, travellers from Primary Inspection Kiosks (PIK) who declare their purpose of trip as work are classified as "other travellers" (not as visitors),  in order to align with United Nations World Tourism Organization recommendations. Prior to 2022, they were considered as visitors."
+12,"Prior to 2022, an "other land vehicle" was reclassified as an automobile if there were more than 4 passengers and as a bus if there were more than 10 passengers. As of January 2022, it is no longer reclassified based on the number of passengers."
+13,"Prior to 2022, land immigration data from the Immigration, Refugees and Citizenship Canada were added as “other travellers”. As of January 2022, as data from the Canada Border Services Agency already include persons immigrating to Canada by land (although they are not indicated specifically as immigrants), in order to avoid overestimating the number of arrivals in Canada, only data from CBSA is retained and those travellers are counted as visitors by default."
+
+"Correction ID","Correction Date","Correction Note"
