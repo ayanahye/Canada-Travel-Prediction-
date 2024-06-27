@@ -1,0 +1,53 @@
+GEO,mode of transport,VALUE
+Alberta,air,38882181
+Alberta,land,9351087
+Alberta,other modes,257726
+Alberta,unknown,96985393
+British Columbia,air,68954284
+British Columbia,land,170023977
+British Columbia,other modes,18118433
+British Columbia,unknown,514391765
+Manitoba,air,3899927
+Manitoba,land,16977036
+Manitoba,other modes,496715
+Manitoba,unknown,42749780
+New Brunswick,air,478277
+New Brunswick,land,43087304
+New Brunswick,other modes,1801005
+New Brunswick,unknown,90735848
+Newfoundland and Labrador,air,1065263
+Newfoundland and Labrador,land,192404
+Newfoundland and Labrador,other modes,116036
+Newfoundland and Labrador,unknown,2927145
+Northwest Territories,air,885
+Northwest Territories,land,18
+Northwest Territories,other modes,29
+Northwest Territories,unknown,1870
+Nova Scotia,air,4120722
+Nova Scotia,land,375145
+Nova Scotia,other modes,1149010
+Nova Scotia,unknown,11305349
+Nunavut,air,25688
+Nunavut,land,13233
+Nunavut,other modes,5077
+Nunavut,unknown,94512
+Ontario,air,170594431
+Ontario,land,331580389
+Ontario,other modes,16004651
+Ontario,unknown,1036388226
+Prince Edward Island,air,38176
+Prince Edward Island,land,5211
+Prince Edward Island,other modes,25275
+Prince Edward Island,unknown,143516
+Quebec,air,69765718
+Quebec,land,65744255
+Quebec,other modes,5060508
+Quebec,unknown,281162744
+Saskatchewan,air,2435813
+Saskatchewan,land,4760315
+Saskatchewan,other modes,155282
+Saskatchewan,unknown,14705358
+Yukon,air,119564
+Yukon,land,2733946
+Yukon,other modes,2285685
+Yukon,unknown,10280144

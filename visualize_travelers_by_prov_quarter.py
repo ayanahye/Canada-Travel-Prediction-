@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import os
 
-file = "grouped_data_trav_num_and_quarter.csv"
+file = "grouped_data/grouped_data_trav_num_and_quarter.csv"
 data = pd.read_csv(file)
 
 output_dir = "plots"

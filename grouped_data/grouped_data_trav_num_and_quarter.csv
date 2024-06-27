@@ -1,0 +1,755 @@
+GEO,quarter,VALUE
+Alberta,2010-Q1,2593178
+Alberta,2010-Q2,2529864
+Alberta,2010-Q3,2528058
+Alberta,2010-Q4,2585816
+Alberta,2011-Q1,2582347
+Alberta,2011-Q2,2648624
+Alberta,2011-Q3,2703894
+Alberta,2011-Q4,2711159
+Alberta,2012-Q1,2815485
+Alberta,2012-Q2,2808179
+Alberta,2012-Q3,2831949
+Alberta,2012-Q4,2871504
+Alberta,2013-Q1,2894974
+Alberta,2013-Q2,2896763
+Alberta,2013-Q3,2989376
+Alberta,2013-Q4,2964200
+Alberta,2014-Q1,3069606
+Alberta,2014-Q2,3117480
+Alberta,2014-Q3,3155051
+Alberta,2014-Q4,3082966
+Alberta,2015-Q1,3006391
+Alberta,2015-Q2,3020872
+Alberta,2015-Q3,2955889
+Alberta,2015-Q4,2928062
+Alberta,2016-Q1,2862254
+Alberta,2016-Q2,2822245
+Alberta,2016-Q3,2953492
+Alberta,2016-Q4,2956839
+Alberta,2017-Q1,2950875
+Alberta,2017-Q2,2896684
+Alberta,2017-Q3,2996492
+Alberta,2017-Q4,3065687
+Alberta,2018-Q1,3068527
+Alberta,2018-Q2,3110172
+Alberta,2018-Q3,3026729
+Alberta,2018-Q4,3166301
+Alberta,2019-Q1,3180705
+Alberta,2019-Q2,3144979
+Alberta,2019-Q3,3077776
+Alberta,2019-Q4,3101878
+Alberta,2020-Q1,2756147
+Alberta,2020-Q2,63622
+Alberta,2020-Q3,95309
+Alberta,2020-Q4,190613
+Alberta,2021-Q1,160463
+Alberta,2021-Q2,150242
+Alberta,2021-Q3,416883
+Alberta,2021-Q4,1124434
+Alberta,2022-Q1,1199078
+Alberta,2022-Q2,1955370
+Alberta,2022-Q3,2126447
+Alberta,2022-Q4,2551335
+Alberta,2023-Q1,2712599
+Alberta,2023-Q2,2918043
+Alberta,2023-Q3,3141008
+Alberta,2023-Q4,3151869
+Alberta,2024-Q1,3067253
+Alberta,2024-Q2,1022350
+British Columbia,2010-Q1,13653006
+British Columbia,2010-Q2,13678278
+British Columbia,2010-Q3,14126646
+British Columbia,2010-Q4,14581697
+British Columbia,2011-Q1,15248581
+British Columbia,2011-Q2,15864220
+British Columbia,2011-Q3,16191297
+British Columbia,2011-Q4,16650113
+British Columbia,2012-Q1,16832187
+British Columbia,2012-Q2,16966614
+British Columbia,2012-Q3,17101138
+British Columbia,2012-Q4,17195055
+British Columbia,2013-Q1,17863909
+British Columbia,2013-Q2,17334326
+British Columbia,2013-Q3,17551327
+British Columbia,2013-Q4,17472203
+British Columbia,2014-Q1,17270756
+British Columbia,2014-Q2,17310954
+British Columbia,2014-Q3,17184017
+British Columbia,2014-Q4,16890729
+British Columbia,2015-Q1,16092100
+British Columbia,2015-Q2,15802365
+British Columbia,2015-Q3,14910035
+British Columbia,2015-Q4,14874822
+British Columbia,2016-Q1,14761614
+British Columbia,2016-Q2,15013853
+British Columbia,2016-Q3,15543392
+British Columbia,2016-Q4,15343524
+British Columbia,2017-Q1,15236046
+British Columbia,2017-Q2,15148683
+British Columbia,2017-Q3,15665899
+British Columbia,2017-Q4,16197325
+British Columbia,2018-Q1,16765341
+British Columbia,2018-Q2,16842353
+British Columbia,2018-Q3,16320844
+British Columbia,2018-Q4,16652856
+British Columbia,2019-Q1,16447047
+British Columbia,2019-Q2,16686876
+British Columbia,2019-Q3,16488631
+British Columbia,2019-Q4,16468057
+British Columbia,2020-Q1,10711366
+British Columbia,2020-Q2,354560
+British Columbia,2020-Q3,507764
+British Columbia,2020-Q4,674761
+British Columbia,2021-Q1,644440
+British Columbia,2021-Q2,567260
+British Columbia,2021-Q3,1413579
+British Columbia,2021-Q4,3780860
+British Columbia,2022-Q1,4157971
+British Columbia,2022-Q2,9007461
+British Columbia,2022-Q3,10342593
+British Columbia,2022-Q4,11972014
+British Columbia,2023-Q1,13103384
+British Columbia,2023-Q2,13057875
+British Columbia,2023-Q3,13378729
+British Columbia,2023-Q4,14115333
+British Columbia,2024-Q1,14491861
+British Columbia,2024-Q2,4977932
+Manitoba,2010-Q1,1413907
+Manitoba,2010-Q2,1514492
+Manitoba,2010-Q3,1477660
+Manitoba,2010-Q4,1468123
+Manitoba,2011-Q1,1483439
+Manitoba,2011-Q2,1509697
+Manitoba,2011-Q3,1568617
+Manitoba,2011-Q4,1566655
+Manitoba,2012-Q1,1664156
+Manitoba,2012-Q2,1562654
+Manitoba,2012-Q3,1587809
+Manitoba,2012-Q4,1580251
+Manitoba,2013-Q1,1606279
+Manitoba,2013-Q2,1527419
+Manitoba,2013-Q3,1533390
+Manitoba,2013-Q4,1529455
+Manitoba,2014-Q1,1435258
+Manitoba,2014-Q2,1501458
+Manitoba,2014-Q3,1421881
+Manitoba,2014-Q4,1439161
+Manitoba,2015-Q1,1328384
+Manitoba,2015-Q2,1353586
+Manitoba,2015-Q3,1238868
+Manitoba,2015-Q4,1192824
+Manitoba,2016-Q1,1187534
+Manitoba,2016-Q2,1246078
+Manitoba,2016-Q3,1223004
+Manitoba,2016-Q4,1194907
+Manitoba,2017-Q1,1214711
+Manitoba,2017-Q2,1154032
+Manitoba,2017-Q3,1235260
+Manitoba,2017-Q4,1218351
+Manitoba,2018-Q1,1258863
+Manitoba,2018-Q2,1248116
+Manitoba,2018-Q3,1174876
+Manitoba,2018-Q4,1210088
+Manitoba,2019-Q1,1224253
+Manitoba,2019-Q2,1202363
+Manitoba,2019-Q3,1226556
+Manitoba,2019-Q4,1188546
+Manitoba,2020-Q1,1072328
+Manitoba,2020-Q2,45302
+Manitoba,2020-Q3,46372
+Manitoba,2020-Q4,66650
+Manitoba,2021-Q1,63566
+Manitoba,2021-Q2,59806
+Manitoba,2021-Q3,98095
+Manitoba,2021-Q4,243039
+Manitoba,2022-Q1,244730
+Manitoba,2022-Q2,517154
+Manitoba,2022-Q3,612247
+Manitoba,2022-Q4,837079
+Manitoba,2023-Q1,910256
+Manitoba,2023-Q2,883050
+Manitoba,2023-Q3,969059
+Manitoba,2023-Q4,1051205
+Manitoba,2024-Q1,1124919
+Manitoba,2024-Q2,365640
+New Brunswick,2010-Q1,3441942
+New Brunswick,2010-Q2,3515230
+New Brunswick,2010-Q3,3544929
+New Brunswick,2010-Q4,3552054
+New Brunswick,2011-Q1,3596399
+New Brunswick,2011-Q2,3671710
+New Brunswick,2011-Q3,3653659
+New Brunswick,2011-Q4,3642955
+New Brunswick,2012-Q1,3703268
+New Brunswick,2012-Q2,3661037
+New Brunswick,2012-Q3,3639616
+New Brunswick,2012-Q4,3648028
+New Brunswick,2013-Q1,3627024
+New Brunswick,2013-Q2,3480483
+New Brunswick,2013-Q3,3449685
+New Brunswick,2013-Q4,3389770
+New Brunswick,2014-Q1,3320546
+New Brunswick,2014-Q2,3202582
+New Brunswick,2014-Q3,3146193
+New Brunswick,2014-Q4,3107804
+New Brunswick,2015-Q1,2748794
+New Brunswick,2015-Q2,2751716
+New Brunswick,2015-Q3,2538177
+New Brunswick,2015-Q4,2466101
+New Brunswick,2016-Q1,2357873
+New Brunswick,2016-Q2,2425946
+New Brunswick,2016-Q3,2455674
+New Brunswick,2016-Q4,2471975
+New Brunswick,2017-Q1,2444161
+New Brunswick,2017-Q2,2290051
+New Brunswick,2017-Q3,2405156
+New Brunswick,2017-Q4,2423120
+New Brunswick,2018-Q1,2457078
+New Brunswick,2018-Q2,2453101
+New Brunswick,2018-Q3,2262681
+New Brunswick,2018-Q4,2308672
+New Brunswick,2019-Q1,2312993
+New Brunswick,2019-Q2,2417472
+New Brunswick,2019-Q3,2440168
+New Brunswick,2019-Q4,2399210
+New Brunswick,2020-Q1,1617662
+New Brunswick,2020-Q2,120317
+New Brunswick,2020-Q3,122077
+New Brunswick,2020-Q4,169202
+New Brunswick,2021-Q1,194099
+New Brunswick,2021-Q2,166079
+New Brunswick,2021-Q3,207847
+New Brunswick,2021-Q4,373620
+New Brunswick,2022-Q1,370531
+New Brunswick,2022-Q2,1049510
+New Brunswick,2022-Q3,1209639
+New Brunswick,2022-Q4,1625770
+New Brunswick,2023-Q1,1782285
+New Brunswick,2023-Q2,1685987
+New Brunswick,2023-Q3,1755029
+New Brunswick,2023-Q4,1901136
+New Brunswick,2024-Q1,2173165
+New Brunswick,2024-Q2,753446
+Newfoundland and Labrador,2010-Q1,90471
+Newfoundland and Labrador,2010-Q2,70144
+Newfoundland and Labrador,2010-Q3,75313
+Newfoundland and Labrador,2010-Q4,75286
+Newfoundland and Labrador,2011-Q1,72021
+Newfoundland and Labrador,2011-Q2,80782
+Newfoundland and Labrador,2011-Q3,72510
+Newfoundland and Labrador,2011-Q4,76226
+Newfoundland and Labrador,2012-Q1,81526
+Newfoundland and Labrador,2012-Q2,79589
+Newfoundland and Labrador,2012-Q3,78225
+Newfoundland and Labrador,2012-Q4,85024
+Newfoundland and Labrador,2013-Q1,89395
+Newfoundland and Labrador,2013-Q2,90382
+Newfoundland and Labrador,2013-Q3,91518
+Newfoundland and Labrador,2013-Q4,86207
+Newfoundland and Labrador,2014-Q1,97400
+Newfoundland and Labrador,2014-Q2,101860
+Newfoundland and Labrador,2014-Q3,120492
+Newfoundland and Labrador,2014-Q4,110846
+Newfoundland and Labrador,2015-Q1,111578
+Newfoundland and Labrador,2015-Q2,120299
+Newfoundland and Labrador,2015-Q3,92593
+Newfoundland and Labrador,2015-Q4,101039
+Newfoundland and Labrador,2016-Q1,106373
+Newfoundland and Labrador,2016-Q2,110798
+Newfoundland and Labrador,2016-Q3,111905
+Newfoundland and Labrador,2016-Q4,103354
+Newfoundland and Labrador,2017-Q1,96554
+Newfoundland and Labrador,2017-Q2,106690
+Newfoundland and Labrador,2017-Q3,117615
+Newfoundland and Labrador,2017-Q4,113413
+Newfoundland and Labrador,2018-Q1,99987
+Newfoundland and Labrador,2018-Q2,107264
+Newfoundland and Labrador,2018-Q3,104631
+Newfoundland and Labrador,2018-Q4,90513
+Newfoundland and Labrador,2019-Q1,86589
+Newfoundland and Labrador,2019-Q2,73518
+Newfoundland and Labrador,2019-Q3,72801
+Newfoundland and Labrador,2019-Q4,82522
+Newfoundland and Labrador,2020-Q1,29972
+Newfoundland and Labrador,2020-Q2,8367
+Newfoundland and Labrador,2020-Q3,6600
+Newfoundland and Labrador,2020-Q4,5725
+Newfoundland and Labrador,2021-Q1,5624
+Newfoundland and Labrador,2021-Q2,6182
+Newfoundland and Labrador,2021-Q3,7282
+Newfoundland and Labrador,2021-Q4,12283
+Newfoundland and Labrador,2022-Q1,23418
+Newfoundland and Labrador,2022-Q2,39113
+Newfoundland and Labrador,2022-Q3,52859
+Newfoundland and Labrador,2022-Q4,54124
+Newfoundland and Labrador,2023-Q1,67590
+Newfoundland and Labrador,2023-Q2,50743
+Newfoundland and Labrador,2023-Q3,54772
+Newfoundland and Labrador,2023-Q4,58173
+Newfoundland and Labrador,2024-Q1,60097
+Newfoundland and Labrador,2024-Q2,22671
+Northwest Territories,2010-Q1,0
+Northwest Territories,2010-Q2,0
+Northwest Territories,2010-Q3,0
+Northwest Territories,2010-Q4,0
+Northwest Territories,2011-Q1,0
+Northwest Territories,2011-Q2,0
+Northwest Territories,2011-Q3,0
+Northwest Territories,2011-Q4,0
+Northwest Territories,2012-Q1,0
+Northwest Territories,2012-Q2,0
+Northwest Territories,2012-Q3,0
+Northwest Territories,2012-Q4,0
+Northwest Territories,2013-Q1,0
+Northwest Territories,2013-Q2,0
+Northwest Territories,2013-Q3,0
+Northwest Territories,2013-Q4,0
+Northwest Territories,2014-Q1,0
+Northwest Territories,2014-Q2,0
+Northwest Territories,2014-Q3,0
+Northwest Territories,2014-Q4,0
+Northwest Territories,2015-Q1,0
+Northwest Territories,2015-Q2,0
+Northwest Territories,2015-Q3,0
+Northwest Territories,2015-Q4,0
+Northwest Territories,2016-Q1,0
+Northwest Territories,2016-Q2,0
+Northwest Territories,2016-Q3,0
+Northwest Territories,2016-Q4,0
+Northwest Territories,2017-Q1,0
+Northwest Territories,2017-Q2,0
+Northwest Territories,2017-Q3,0
+Northwest Territories,2017-Q4,0
+Northwest Territories,2018-Q1,0
+Northwest Territories,2018-Q2,0
+Northwest Territories,2018-Q3,0
+Northwest Territories,2018-Q4,0
+Northwest Territories,2019-Q1,0
+Northwest Territories,2019-Q2,0
+Northwest Territories,2019-Q3,0
+Northwest Territories,2019-Q4,0
+Northwest Territories,2020-Q1,0
+Northwest Territories,2020-Q2,0
+Northwest Territories,2020-Q3,0
+Northwest Territories,2020-Q4,0
+Northwest Territories,2021-Q1,0
+Northwest Territories,2021-Q2,0
+Northwest Territories,2021-Q3,0
+Northwest Territories,2021-Q4,0
+Northwest Territories,2022-Q1,18
+Northwest Territories,2022-Q2,18
+Northwest Territories,2022-Q3,205
+Northwest Territories,2022-Q4,30
+Northwest Territories,2023-Q1,3
+Northwest Territories,2023-Q2,120
+Northwest Territories,2023-Q3,176
+Northwest Territories,2023-Q4,36
+Northwest Territories,2024-Q1,2196
+Northwest Territories,2024-Q2,0
+Nova Scotia,2010-Q1,317659
+Nova Scotia,2010-Q2,336011
+Nova Scotia,2010-Q3,335202
+Nova Scotia,2010-Q4,355857
+Nova Scotia,2011-Q1,370901
+Nova Scotia,2011-Q2,383795
+Nova Scotia,2011-Q3,385192
+Nova Scotia,2011-Q4,375425
+Nova Scotia,2012-Q1,384812
+Nova Scotia,2012-Q2,359484
+Nova Scotia,2012-Q3,347027
+Nova Scotia,2012-Q4,361781
+Nova Scotia,2013-Q1,361619
+Nova Scotia,2013-Q2,340327
+Nova Scotia,2013-Q3,335832
+Nova Scotia,2013-Q4,337717
+Nova Scotia,2014-Q1,342846
+Nova Scotia,2014-Q2,369391
+Nova Scotia,2014-Q3,384013
+Nova Scotia,2014-Q4,369538
+Nova Scotia,2015-Q1,363850
+Nova Scotia,2015-Q2,344462
+Nova Scotia,2015-Q3,351429
+Nova Scotia,2015-Q4,332870
+Nova Scotia,2016-Q1,300813
+Nova Scotia,2016-Q2,338861
+Nova Scotia,2016-Q3,330385
+Nova Scotia,2016-Q4,370426
+Nova Scotia,2017-Q1,368729
+Nova Scotia,2017-Q2,351536
+Nova Scotia,2017-Q3,346840
+Nova Scotia,2017-Q4,347541
+Nova Scotia,2018-Q1,347683
+Nova Scotia,2018-Q2,403261
+Nova Scotia,2018-Q3,415611
+Nova Scotia,2018-Q4,370945
+Nova Scotia,2019-Q1,364877
+Nova Scotia,2019-Q2,339631
+Nova Scotia,2019-Q3,312383
+Nova Scotia,2019-Q4,305392
+Nova Scotia,2020-Q1,209871
+Nova Scotia,2020-Q2,2010
+Nova Scotia,2020-Q3,923
+Nova Scotia,2020-Q4,966
+Nova Scotia,2021-Q1,3624
+Nova Scotia,2021-Q2,2755
+Nova Scotia,2021-Q3,4899
+Nova Scotia,2021-Q4,17264
+Nova Scotia,2022-Q1,42960
+Nova Scotia,2022-Q2,183812
+Nova Scotia,2022-Q3,275635
+Nova Scotia,2022-Q4,323067
+Nova Scotia,2023-Q1,330595
+Nova Scotia,2023-Q2,256745
+Nova Scotia,2023-Q3,253794
+Nova Scotia,2023-Q4,316208
+Nova Scotia,2024-Q1,371571
+Nova Scotia,2024-Q2,191573
+Nunavut,2010-Q1,1780
+Nunavut,2010-Q2,2205
+Nunavut,2010-Q3,1289
+Nunavut,2010-Q4,1491
+Nunavut,2011-Q1,2348
+Nunavut,2011-Q2,2435
+Nunavut,2011-Q3,2524
+Nunavut,2011-Q4,2505
+Nunavut,2012-Q1,2426
+Nunavut,2012-Q2,2561
+Nunavut,2012-Q3,2562
+Nunavut,2012-Q4,2506
+Nunavut,2013-Q1,2282
+Nunavut,2013-Q2,2578
+Nunavut,2013-Q3,3742
+Nunavut,2013-Q4,2429
+Nunavut,2014-Q1,2758
+Nunavut,2014-Q2,2334
+Nunavut,2014-Q3,2888
+Nunavut,2014-Q4,1835
+Nunavut,2015-Q1,1484
+Nunavut,2015-Q2,1533
+Nunavut,2015-Q3,379
+Nunavut,2015-Q4,1861
+Nunavut,2016-Q1,3403
+Nunavut,2016-Q2,2471
+Nunavut,2016-Q3,2990
+Nunavut,2016-Q4,2580
+Nunavut,2017-Q1,2398
+Nunavut,2017-Q2,2163
+Nunavut,2017-Q3,2163
+Nunavut,2017-Q4,2218
+Nunavut,2018-Q1,2591
+Nunavut,2018-Q2,3462
+Nunavut,2018-Q3,4250
+Nunavut,2018-Q4,3259
+Nunavut,2019-Q1,3607
+Nunavut,2019-Q2,3938
+Nunavut,2019-Q3,6344
+Nunavut,2019-Q4,3742
+Nunavut,2020-Q1,993
+Nunavut,2020-Q2,351
+Nunavut,2020-Q3,183
+Nunavut,2020-Q4,180
+Nunavut,2021-Q1,304
+Nunavut,2021-Q2,526
+Nunavut,2021-Q3,797
+Nunavut,2021-Q4,1058
+Nunavut,2022-Q1,1750
+Nunavut,2022-Q2,2253
+Nunavut,2022-Q3,2598
+Nunavut,2022-Q4,3467
+Nunavut,2023-Q1,3010
+Nunavut,2023-Q2,3885
+Nunavut,2023-Q3,4354
+Nunavut,2023-Q4,3251
+Nunavut,2024-Q1,4259
+Nunavut,2024-Q2,977
+Ontario,2010-Q1,29838426
+Ontario,2010-Q2,29906895
+Ontario,2010-Q3,30699992
+Ontario,2010-Q4,31727079
+Ontario,2011-Q1,31319996
+Ontario,2011-Q2,32436169
+Ontario,2011-Q3,32452720
+Ontario,2011-Q4,32265142
+Ontario,2012-Q1,33652557
+Ontario,2012-Q2,32851009
+Ontario,2012-Q3,33171942
+Ontario,2012-Q4,32922487
+Ontario,2013-Q1,33514382
+Ontario,2013-Q2,32667507
+Ontario,2013-Q3,32426156
+Ontario,2013-Q4,32604115
+Ontario,2014-Q1,31746184
+Ontario,2014-Q2,32498178
+Ontario,2014-Q3,32177187
+Ontario,2014-Q4,32162640
+Ontario,2015-Q1,30941918
+Ontario,2015-Q2,31212244
+Ontario,2015-Q3,30868747
+Ontario,2015-Q4,30185824
+Ontario,2016-Q1,30486178
+Ontario,2016-Q2,31147751
+Ontario,2016-Q3,31760088
+Ontario,2016-Q4,31465091
+Ontario,2017-Q1,32294162
+Ontario,2017-Q2,31826123
+Ontario,2017-Q3,32614835
+Ontario,2017-Q4,32732841
+Ontario,2018-Q1,33023680
+Ontario,2018-Q2,32200262
+Ontario,2018-Q3,31782300
+Ontario,2018-Q4,32425975
+Ontario,2019-Q1,32539847
+Ontario,2019-Q2,32874942
+Ontario,2019-Q3,32928659
+Ontario,2019-Q4,33532560
+Ontario,2020-Q1,24747755
+Ontario,2020-Q2,1519293
+Ontario,2020-Q3,2105880
+Ontario,2020-Q4,2853089
+Ontario,2021-Q1,2788747
+Ontario,2021-Q2,2791482
+Ontario,2021-Q3,5343245
+Ontario,2021-Q4,9950785
+Ontario,2022-Q1,9480451
+Ontario,2022-Q2,18759679
+Ontario,2022-Q3,21246923
+Ontario,2022-Q4,23727671
+Ontario,2023-Q1,26246614
+Ontario,2023-Q2,26600467
+Ontario,2023-Q3,27114915
+Ontario,2023-Q4,28122268
+Ontario,2024-Q1,29029974
+Ontario,2024-Q2,10253669
+Prince Edward Island,2010-Q1,756
+Prince Edward Island,2010-Q2,2130
+Prince Edward Island,2010-Q3,6558
+Prince Edward Island,2010-Q4,397
+Prince Edward Island,2011-Q1,168
+Prince Edward Island,2011-Q2,321
+Prince Edward Island,2011-Q3,7287
+Prince Edward Island,2011-Q4,264
+Prince Edward Island,2012-Q1,574
+Prince Edward Island,2012-Q2,2194
+Prince Edward Island,2012-Q3,7286
+Prince Edward Island,2012-Q4,10851
+Prince Edward Island,2013-Q1,3345
+Prince Edward Island,2013-Q2,1740
+Prince Edward Island,2013-Q3,8511
+Prince Edward Island,2013-Q4,937
+Prince Edward Island,2014-Q1,2076
+Prince Edward Island,2014-Q2,2169
+Prince Edward Island,2014-Q3,10053
+Prince Edward Island,2014-Q4,5927
+Prince Edward Island,2015-Q1,2094
+Prince Edward Island,2015-Q2,2634
+Prince Edward Island,2015-Q3,1965
+Prince Edward Island,2015-Q4,1520
+Prince Edward Island,2016-Q1,4983
+Prince Edward Island,2016-Q2,4641
+Prince Edward Island,2016-Q3,17792
+Prince Edward Island,2016-Q4,2130
+Prince Edward Island,2017-Q1,5580
+Prince Edward Island,2017-Q2,2832
+Prince Edward Island,2017-Q3,8496
+Prince Edward Island,2017-Q4,7647
+Prince Edward Island,2018-Q1,2943
+Prince Edward Island,2018-Q2,1818
+Prince Edward Island,2018-Q3,2622
+Prince Edward Island,2018-Q4,1884
+Prince Edward Island,2019-Q1,1950
+Prince Edward Island,2019-Q2,2163
+Prince Edward Island,2019-Q3,2568
+Prince Edward Island,2019-Q4,1857
+Prince Edward Island,2020-Q1,2778
+Prince Edward Island,2020-Q2,39
+Prince Edward Island,2020-Q3,42
+Prince Edward Island,2020-Q4,33
+Prince Edward Island,2021-Q1,42
+Prince Edward Island,2021-Q2,15
+Prince Edward Island,2021-Q3,12
+Prince Edward Island,2021-Q4,48
+Prince Edward Island,2022-Q1,15
+Prince Edward Island,2022-Q2,1170
+Prince Edward Island,2022-Q3,15418
+Prince Edward Island,2022-Q4,11811
+Prince Edward Island,2023-Q1,51
+Prince Edward Island,2023-Q2,281
+Prince Edward Island,2023-Q3,8142
+Prince Edward Island,2023-Q4,18468
+Prince Edward Island,2024-Q1,84
+Prince Edward Island,2024-Q2,66
+Quebec,2010-Q1,7380335
+Quebec,2010-Q2,7626463
+Quebec,2010-Q3,7694353
+Quebec,2010-Q4,7754883
+Quebec,2011-Q1,7954531
+Quebec,2011-Q2,8016095
+Quebec,2011-Q3,8056857
+Quebec,2011-Q4,8059257
+Quebec,2012-Q1,8365702
+Quebec,2012-Q2,8314102
+Quebec,2012-Q3,8237779
+Quebec,2012-Q4,8278226
+Quebec,2013-Q1,8547897
+Quebec,2013-Q2,8509472
+Quebec,2013-Q3,8572887
+Quebec,2013-Q4,8632508
+Quebec,2014-Q1,8505475
+Quebec,2014-Q2,8697722
+Quebec,2014-Q3,8491870
+Quebec,2014-Q4,8530002
+Quebec,2015-Q1,8218154
+Quebec,2015-Q2,8490724
+Quebec,2015-Q3,8337040
+Quebec,2015-Q4,8229672
+Quebec,2016-Q1,8229096
+Quebec,2016-Q2,8146042
+Quebec,2016-Q3,8350844
+Quebec,2016-Q4,8211830
+Quebec,2017-Q1,8543020
+Quebec,2017-Q2,8393226
+Quebec,2017-Q3,8658413
+Quebec,2017-Q4,8721002
+Quebec,2018-Q1,8724664
+Quebec,2018-Q2,8850189
+Quebec,2018-Q3,8655587
+Quebec,2018-Q4,8764438
+Quebec,2019-Q1,8939143
+Quebec,2019-Q2,8921751
+Quebec,2019-Q3,9023835
+Quebec,2019-Q4,9193209
+Quebec,2020-Q1,7079167
+Quebec,2020-Q2,200650
+Quebec,2020-Q3,394778
+Quebec,2020-Q4,660343
+Quebec,2021-Q1,573126
+Quebec,2021-Q2,469450
+Quebec,2021-Q3,1405350
+Quebec,2021-Q4,3243040
+Quebec,2022-Q1,3159527
+Quebec,2022-Q2,5864596
+Quebec,2022-Q3,7022461
+Quebec,2022-Q4,8266804
+Quebec,2023-Q1,8626948
+Quebec,2023-Q2,8270769
+Quebec,2023-Q3,8572982
+Quebec,2023-Q4,9384305
+Quebec,2024-Q1,9515088
+Quebec,2024-Q2,3195546
+Saskatchewan,2010-Q1,479928
+Saskatchewan,2010-Q2,521021
+Saskatchewan,2010-Q3,536765
+Saskatchewan,2010-Q4,522346
+Saskatchewan,2011-Q1,500746
+Saskatchewan,2011-Q2,521710
+Saskatchewan,2011-Q3,493626
+Saskatchewan,2011-Q4,529943
+Saskatchewan,2012-Q1,556206
+Saskatchewan,2012-Q2,545356
+Saskatchewan,2012-Q3,556537
+Saskatchewan,2012-Q4,539840
+Saskatchewan,2013-Q1,541749
+Saskatchewan,2013-Q2,562216
+Saskatchewan,2013-Q3,561771
+Saskatchewan,2013-Q4,562805
+Saskatchewan,2014-Q1,561609
+Saskatchewan,2014-Q2,563573
+Saskatchewan,2014-Q3,570280
+Saskatchewan,2014-Q4,539877
+Saskatchewan,2015-Q1,494947
+Saskatchewan,2015-Q2,462443
+Saskatchewan,2015-Q3,435370
+Saskatchewan,2015-Q4,430300
+Saskatchewan,2016-Q1,438470
+Saskatchewan,2016-Q2,422899
+Saskatchewan,2016-Q3,397390
+Saskatchewan,2016-Q4,404443
+Saskatchewan,2017-Q1,401141
+Saskatchewan,2017-Q2,391813
+Saskatchewan,2017-Q3,405102
+Saskatchewan,2017-Q4,408460
+Saskatchewan,2018-Q1,406508
+Saskatchewan,2018-Q2,407209
+Saskatchewan,2018-Q3,396081
+Saskatchewan,2018-Q4,399642
+Saskatchewan,2019-Q1,414726
+Saskatchewan,2019-Q2,403720
+Saskatchewan,2019-Q3,407619
+Saskatchewan,2019-Q4,384101
+Saskatchewan,2020-Q1,420585
+Saskatchewan,2020-Q2,22641
+Saskatchewan,2020-Q3,22077
+Saskatchewan,2020-Q4,18860
+Saskatchewan,2021-Q1,21457
+Saskatchewan,2021-Q2,30650
+Saskatchewan,2021-Q3,41044
+Saskatchewan,2021-Q4,76700
+Saskatchewan,2022-Q1,75726
+Saskatchewan,2022-Q2,183376
+Saskatchewan,2022-Q3,206118
+Saskatchewan,2022-Q4,242860
+Saskatchewan,2023-Q1,254322
+Saskatchewan,2023-Q2,304016
+Saskatchewan,2023-Q3,296089
+Saskatchewan,2023-Q4,301323
+Saskatchewan,2024-Q1,314106
+Saskatchewan,2024-Q2,144530
+Yukon,2010-Q1,304909
+Yukon,2010-Q2,306871
+Yukon,2010-Q3,285636
+Yukon,2010-Q4,299659
+Yukon,2011-Q1,300457
+Yukon,2011-Q2,290746
+Yukon,2011-Q3,290548
+Yukon,2011-Q4,297361
+Yukon,2012-Q1,302273
+Yukon,2012-Q2,285347
+Yukon,2012-Q3,307910
+Yukon,2012-Q4,303418
+Yukon,2013-Q1,312337
+Yukon,2013-Q2,336792
+Yukon,2013-Q3,342402
+Yukon,2013-Q4,313639
+Yukon,2014-Q1,310286
+Yukon,2014-Q2,304772
+Yukon,2014-Q3,314496
+Yukon,2014-Q4,311956
+Yukon,2015-Q1,311691
+Yukon,2015-Q2,307829
+Yukon,2015-Q3,289796
+Yukon,2015-Q4,305905
+Yukon,2016-Q1,324795
+Yukon,2016-Q2,311641
+Yukon,2016-Q3,296903
+Yukon,2016-Q4,324259
+Yukon,2017-Q1,322480
+Yukon,2017-Q2,319251
+Yukon,2017-Q3,324855
+Yukon,2017-Q4,343898
+Yukon,2018-Q1,355802
+Yukon,2018-Q2,383948
+Yukon,2018-Q3,399754
+Yukon,2018-Q4,365720
+Yukon,2019-Q1,372862
+Yukon,2019-Q2,384575
+Yukon,2019-Q3,385849
+Yukon,2019-Q4,371657
+Yukon,2020-Q1,68438
+Yukon,2020-Q2,4132
+Yukon,2020-Q3,3915
+Yukon,2020-Q4,15083
+Yukon,2021-Q1,20898
+Yukon,2021-Q2,10793
+Yukon,2021-Q3,11688
+Yukon,2021-Q4,55828
+Yukon,2022-Q1,66086
+Yukon,2022-Q2,102650
+Yukon,2022-Q3,125020
+Yukon,2022-Q4,218802
+Yukon,2023-Q1,272276
+Yukon,2023-Q2,350061
+Yukon,2023-Q3,422151
+Yukon,2023-Q4,317302
+Yukon,2024-Q1,318827
+Yukon,2024-Q2,110104

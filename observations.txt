@@ -1,0 +1,13 @@
+1. travellers are those that enter or return to canada regardless of specific travel purposes or duration?
+- its the excursionist + tourist
+
+2. excursionists are those who visit Canada and return the their country of origin on the same day. They dont stay overnight
+- metadata says: Excursionists (same-day)
+
+3. Tourists are those who visit canada and stay at least one night
+- metadata says Tourists (overnight)
+
+More Notes:
+6	Prior to 2022, all residents of countries other than the United States of America entering by air or water were considered tourists (overnight visitors). As of January 2022, if these travellers are recorded as same-day, they will be published as excursionists.								
+7	As of January 2022, non-resident travellers with a trip duration of 365 days or more are considered as other travellers" (not as visitors). Prior to 2022	 they were reclassified as Canadian-resident visitors."							
+8	Prior to 2022, all Canadian residents returning from countries other than the United States of America were considered tourists (overnight visitors). As of January 2022, if these travellers are recorded as same-day, they will be published as excursionists.								

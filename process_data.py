@@ -8,8 +8,9 @@ data = pd.read_csv(file, parse_dates=["REF_DATE"])
 data = data[data["GEO"] != 'Canada']
 
 # before grouping by these, drop the NaN rows
-data = data[~data["GEO"].isna()]
-data = data[~data["Traveller characteristics"].isna()]
+data = data.dropna(subset=["GEO", "Traveller characteristics", "VALUE"])
+
+data = data.drop_duplicates()
 
 def extract_month_year(dateobj):
     return f"{dateobj.year}-{dateobj.month}"
@@ -17,26 +18,30 @@ def extract_month_year(dateobj):
 def get_quarter(dateobj):
     return f"{dateobj.year}-Q{((dateobj.month-1)//3)+1}"
 
+def get_mode_of_transport(characteristics):
+    if 'air' in characteristics.lower():
+        return 'air'
+    elif 'land' in characteristics.lower():
+        return 'land'
+    elif 'water' in characteristics.lower():
+        return 'water'
+    elif 'other modes' in characteristics.lower():
+        return 'other modes'
+    else:
+        return 'unknown'
+
 data["month-year"] = data["REF_DATE"].apply(extract_month_year)
 
 data["quarter"] = data["REF_DATE"].apply(get_quarter)
 
-# get the total number of travelers for each province by their characteristic
-grouped_data_trav_num_and_type = data.groupby(["GEO", "Traveller characteristics"]).agg({"VALUE":"sum"})
+data["mode of transport"] = data["Traveller characteristics"].apply(get_mode_of_transport)
 
-grouped_data_trav_num_and_type_quarter = data.groupby(["GEO", "Traveller characteristics", "quarter"]).agg({"VALUE":"sum"})
+selected_columns = ["REF_DATE", "GEO", "Traveller characteristics", "Traveller type", "VALUE", "month-year", "quarter", "mode of transport"]
 
-grouped_data_trav_num_quarter = data.groupby(["GEO", "quarter"]).agg({"VALUE":"sum"})
+data = data[selected_columns]
 
-# grouped_data_trav_num_and_type_month = data.groupby(["GEO", "Traveller characteristics", "month-year"]).agg({"VALUE":"sum"})
+print(data["Traveller type"].unique())
 
-grouped_data_trav_num_and_type.to_csv("grouped_data_trav_num_and_type.csv")
+data = data[data["Traveller type"] != "Travellers"]
 
-# grouped_data_trav_num_and_type_month.to_csv("grouped_data_trav_num_and_type_month.csv")
-
-grouped_data_trav_num_and_type_quarter.to_csv("grouped_data_trav_num_and_type_quarter.csv")
-
-grouped_data_trav_num_quarter.to_csv("grouped_data_trav_num_and_quarter.csv")
-# print(grouped_data_trav_num_and_type.to_string())
-
-print(grouped_data_trav_num_quarter.to_string())
+data.to_csv("cleaned_data.csv")
