@@ -13,6 +13,8 @@ grouped_data_trav_num_quarter = data.groupby(["GEO", "quarter"]).agg({"VALUE":"s
 
 grouped_data_trav_num_mode_quarter = data.groupby(["GEO", "mode of transport"]).agg({"VALUE":"sum"})
 
+grouped_data_trav_num_excur_tour = data.groupby(["GEO", "Traveller type"]).agg({"VALUE":"sum"})
+
 # to csv
 grouped_data_trav_num_and_type.to_csv("grouped_data/grouped_data_trav_num_and_type.csv")
 
@@ -21,3 +23,5 @@ grouped_data_trav_num_and_type_quarter.to_csv("grouped_data/grouped_data_trav_nu
 grouped_data_trav_num_quarter.to_csv("grouped_data/grouped_data_trav_num_and_quarter.csv")
 
 grouped_data_trav_num_mode_quarter.to_csv("grouped_data/grouped_data_trav_num_mode_quarter.csv")
+
+grouped_data_trav_num_excur_tour.to_csv("grouped_data/grouped_data_trav_num_excur_tour.csv")
